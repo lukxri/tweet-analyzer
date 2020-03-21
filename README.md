@@ -1,3 +1,4 @@
-# Data Science Project Template
+# Tweet Analyzer
+
 ---
 lukxri
